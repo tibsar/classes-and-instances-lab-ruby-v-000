@@ -1,10 +1,9 @@
 require 'pry'
 class Person
-  def initialize(name)
-    @name = name
+  def initialize
   end
 end
-# 
+#
 # adele_goldberg = Person.new
 # alan_kay = Person.new
 

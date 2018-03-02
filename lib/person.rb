@@ -1,6 +1,7 @@
 require 'pry'
 class Person
   def initialize
+    binding.pry
   end
 end
 #

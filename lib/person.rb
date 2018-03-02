@@ -4,8 +4,8 @@ class Person
     @name = name
   end
 end
-
-adele_goldberg = Person.new
-alan_kay = Person.new
+# 
+# adele_goldberg = Person.new
+# alan_kay = Person.new
 
 binding.pry
